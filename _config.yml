@@ -26,7 +26,7 @@ author:
   name             : "Tianlai Jin"
   pronouns         : "she/her"   
   bio              : "Research in efficient AI, model compression, and deployment."
-  location         : "Earth"
+  location         : "Shenzhen"
   employer         : "Southern University of Science and Technology"
   uri              : # URL
   email            : "steindoxj@gmail.com" 
@@ -52,7 +52,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  # bluesky          : # Username # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
