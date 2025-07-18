@@ -11,35 +11,16 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Microelectronics Engineering, Southern University of Science and Technology (SUSTech), 2020-2026 (expected)
+  * Advisor: Prof. Hao Yu
+  * Research Focus: Efficient AI, Model Compression, Hardware Acceleration
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Programming Languages**: Python, C++, CUDA, PyTorch, TensorFlow
+* **Research Areas**: Model Compression, Hardware Acceleration, Large Language Models, Neural Network Pruning, Foundation Models
+* **Tools & Frameworks**: Git, Linux, Docker, Hugging Face, Transformers
+* **Languages**: English, Mandarin
 
 Publications
 ======
@@ -59,6 +40,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Interests
 ======
-* Currently signed in to 43 different slack teams
+* Anime, Movie, Guitar
